@@ -10,20 +10,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aydinnyunus/exifLooter">
+  <a href="https://github.com/trhacknon/exifLooter">
   </a>
 
 <h3 align="center">Exif Looter</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/aydinnyunus/exifLooter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/trhacknon/exifLooter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/aydinnyunus/exifLooter/issues">Report Bug</a>
+    <a href="https://github.com/trhacknon/exifLooter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aydinnyunus/exifLooter/issues">Request Feature</a>
+    <a href="https://github.com/trhacknon/exifLooter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,7 +68,7 @@ General information about setting up Exif Looter locally
 ## Installation
 
 ```bash
-go install github.com/aydinnyunus/exifLooter@latest
+go install github.com/trhacknon/exifLooter@latest
 ```
 
 Exif Looter depends on [exiftool](https://exiftool.org/), so make sure it is on
@@ -151,7 +151,7 @@ Bugcrowd’s Vulnerability Rating Taxonomy
 
 ## Roadmap
 
-See the [open issues](https://github.com/aydinnyunus/exifLooter/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/trhacknon/exifLooter/issues) for a list of proposed features (and known issues).
 
 
 
@@ -191,11 +191,11 @@ Distributed under the Apache License 2.0 License. See `LICENSE` for more informa
 
 [forks-shield]: https://img.shields.io/github/forks/usestrix/cli.svg?style=for-the-badge
 
-[forks-url]: https://github.com/aydinnyunus/exifLooter/network/members
+[forks-url]: https://github.com/trhacknon/exifLooter/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/usestrix/cli?style=for-the-badge
 
-[stars-url]: https://github.com/aydinnyunus/exifLooter/stargazers
+[stars-url]: https://github.com/trhacknon/exifLooter/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/usestrix/cli.svg?style=for-the-badge
 
